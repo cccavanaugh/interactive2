@@ -1,0 +1,24 @@
+body{
+  background-image:url("https://cdn.glitch.global/a7fb516f-55df-4f43-adc0-05893f367832/purple3.png?v=1646122875948")
+}
+a{
+  text-decoration:none;
+  color: black;
+  
+}
+a:hover{color:red;
+  
+}
+.pics{
+  
+margin:center;
+  padding-right:400px;
+  padding-left:400px;
+  padding-top:50px;
+}
+}
+.next{
+ 
+  padding-right:300px;
+  padding-left:300px;
+}

@@ -1,0 +1,24 @@
+body{
+  background-image:url("https://cdn.glitch.global/ec94a5bb-6031-400e-9d0d-9e4c3df1dec1/bathroom3.png?v=1646125157700")
+}
+a{
+  text-decoration:none;
+  color: black;
+  
+}
+a:hover{color:red;
+  
+}
+.pics{
+  
+margin:center;
+  padding-right:400px;
+  padding-left:400px;
+  padding-top:50px;
+}
+}
+.next{
+ 
+  padding-right:300px;
+  padding-left:300px;
+}

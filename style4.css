@@ -1,0 +1,26 @@
+body{
+  background-image: url("https://cdn.glitch.global/77d65607-109b-4ee7-aadb-1542d921ddcf/purple3.png?v=1646120858678");
+  font-family:Arial, Helvetica, sans-serif;
+
+ font-family:Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  line-height:1.6em;
+}
+a{
+  text-decoration:none;
+  color: black;
+  
+}
+a:hover{color:red;
+  
+}
+.pic-1{
+  margin:160px;
+  padding:50px;
+}
+
+.button1{
+  text-align:center;
+  list-style:none;
+  padding-top:400px;
+}

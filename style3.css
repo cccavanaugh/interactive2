@@ -1,0 +1,24 @@
+body{
+  background-image:url("https://cdn.glitch.global/46395390-e9ac-4916-ae93-9a2fe98aa8d6/stripespng.png?v=1646123269816")
+}
+a{
+  text-decoration:none;
+  color: black;
+  
+}
+a:hover{color:red;
+  
+}
+.pics{
+  
+margin:center;
+  padding-right:400px;
+  padding-left:400px;
+  padding-top:50px;
+}
+}
+.next{
+ 
+  padding-right:300px;
+  padding-left:300px;
+}
