@@ -3,11 +3,11 @@ body{
   overflow:hidden;
   margin: 50% 0 0 0;
   position: relative;
-  
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body::after{
-  content: '';
+  content: " ";
   position: fixed;
   top: 0;
   width: 100%;
@@ -32,8 +32,7 @@ perspective: 450px;
   font-weight:bold;
   text-align:justify;
   position:relative;
-  animation: scroll 60s linear forwards;
-  transform: rotatex(20deg);
+  animation: scroll 100s linear forwards;
   
 }
 h1,h2{ 
@@ -42,7 +41,8 @@ h1,h2{
 }
 
 @keyframes scroll {
-  from{top: 0;transform: translateZ(0)rotatex(20deg)}
-  to{top: -7500px; transform: translateZ(-2500px)rotatex(21deg)}
+  from { top: 0; transform: translateZ(0) rotatex(20deg) }
+  to {top: -7500px; transform: translateZ(-2500px) rotatex(21deg)}
 
 }
+
